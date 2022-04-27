@@ -1,3 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>陣列產生九九乘法表</title>
+</head>
+<body>
+
+<div>
+    <a href="index.php">回目錄</a>
+</div>
+
 <h2>利用程式來產生陣列-九九乘法表</h2>
 <?php
 $nine=[];
@@ -61,3 +75,6 @@ $j=7;
 echo "$i x $j=";
 echo $nine["{$i}x{$j}"];
 ?>
+    
+</body>
+</html>

@@ -1,7 +1,22 @@
-<style>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>矩形</title>
+
+    <style>
     *{font-family:'Courier New', Courier, monospace
     }
+
 </style>
+</head>
+<body>
+
+<div>
+    <a href="index.php">回目錄</a>
+</div>
 
 <h3>矩形</h3>
 
@@ -154,3 +169,6 @@ for($i=0;$i<$size;$i++){
     echo "<br>";
 }
 ?>
+    
+</body>
+</html>

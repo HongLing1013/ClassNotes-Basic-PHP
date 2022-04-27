@@ -1,3 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>五百年內的閏年</title>
+</head>
+<body>
+    <div>
+        <a href="index.php">回目錄</a>
+    </div>
 <h2>五百年內的閏年</h2>
 <?php
 $leapYear=[];
@@ -32,3 +44,6 @@ if(in_array($leap,$leapYear)){
     echo $leap. '年不是閏年';
 }
 ?>
+</body>
+</html>
+

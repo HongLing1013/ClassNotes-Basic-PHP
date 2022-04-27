@@ -1,3 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>迴圈畫星星-三角形與菱形</title>
+</head>
+<body>
+
+<div>
+    <a href="index.php">回目錄</a>
+</div>
+
 <h1>畫星星</h1>
 
 <style>
@@ -150,3 +164,5 @@ for($i=0;$i<11;$i++){
 }
 
 ?>
+</body>
+</html>

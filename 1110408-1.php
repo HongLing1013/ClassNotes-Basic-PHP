@@ -1,3 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>while與do...while</title>
+</head>
+<body>
+    
+<div>
+        <a href="index.php">回目錄</a>
+</div>
+
 <h3>while</h3>
 <?php
 $i = 1;
@@ -75,3 +89,6 @@ echo "<hr>";
 //一般建議不要超過3層
 //如果寫得不好會有很多無效迴圈空轉
 ?>
+
+</body>
+</html>

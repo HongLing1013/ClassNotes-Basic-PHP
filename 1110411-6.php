@@ -1,3 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>隨機威力彩號</title>
+</head>
+<body>
+
+<div>
+    <a href="index.php">回目錄</a>
+</div>
+    
 <h2>威力彩號-隨機產生號碼</h2>
 <?php
 //random的簡寫,產生亂數
@@ -69,3 +83,5 @@ for($i=0;$i<count($lotto);$i++){
 echo "<h3>第二區</h3>";
 echo rand(1,8);
 ?>
+</body>
+</html>

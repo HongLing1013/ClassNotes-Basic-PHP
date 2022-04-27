@@ -1,3 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>閏年</title>
+</head>
+<body>
+    
+<div>
+        <a href="index.php">回目錄</a>
+</div>
+
 <h3>基本的閏年</h3>
 <?php
 //不可被4整除=平年
@@ -45,3 +59,6 @@ if ((($year % 4 == 0) && ($year % 100 != 0)) || ($year % 400 == 0)) {
     echo "平年";
 }
 ?>
+
+</body>
+</html>

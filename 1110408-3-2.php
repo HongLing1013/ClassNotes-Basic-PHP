@@ -1,3 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>九九乘法表加標題欄</title>
+</head>
+<body>
+
+<div>
+    <a href="index.php">回目錄</a>
+</div>
+    
 <h1>九九乘法表有標題欄的版本</h1>
 
 <style>
@@ -35,3 +49,5 @@ echo "</tr>";
 }
 echo"</table>";
 echo"<hr>";?>
+</body>
+</html>
