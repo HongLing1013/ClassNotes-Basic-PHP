@@ -7,6 +7,10 @@
     <title>字串分割</title>
 </head>
 <body>
+
+<div>
+    <a href="index.php">回目錄</a>
+</div>
     <h1>字串分割</h1>
     <article>
         <h3>字串分割</h3>

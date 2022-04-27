@@ -1,3 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>求天干地支年</title>
+</head>
+<body>
+    
+<div><a href="index.php">回目錄</a></div>
+
 <h2>求某年的天干地支年</h2>
 <pre>
     天干：甲乙丙丁戊己庚辛壬癸
@@ -38,3 +50,5 @@ echo "</pre>";
 
 echo "西元2022年是 [".$skyland2[2022]."]年";
 ?>
+</body>
+</html>

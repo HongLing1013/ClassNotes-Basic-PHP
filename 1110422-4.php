@@ -7,6 +7,11 @@
     <title>子字串的應用</title>
 </head>
 <body>
+
+<div>
+    <a href="index.php">回目錄</a>
+</div>
+
     <h1>子字串的應用</h1>
     <article>
         <h3>子字串的應用</h3>

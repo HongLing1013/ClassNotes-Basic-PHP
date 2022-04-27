@@ -25,13 +25,13 @@
         <li><a href="1110411-5.php">陣列產生九九乘法表</a></li>
         <li><a href="1110411-6.php">隨機威力彩號</a></li>
         <li><a href="1110411-7.php">五百年內的閏年</a></li>
-        <li><a href=""></a></li>
-        <li><a href=""></a></li>
-        <li><a href=""></a></li>
-        <li><a href=""></a></li>
-        <li><a href=""></a></li>
-        <li><a href=""></a></li>
-        <li><a href=""></a></li>
+        <li><a href="1110415-1.php">求天干地支年</a></li>
+        <li><a href="1110415-2.php">陣列反轉</a></li>
+        <li><a href="1110422-1.php">字串取代</a></li>
+        <li><a href="1110422-2.php">字串分割</a></li>
+        <li><a href="1110422-3.php">字串組合</a></li>
+        <li><a href="1110422-4.php">子字串的應用</a></li>
+        <li><a href="1110422-5.php">字串函式整合應用</a></li>
     </ul>
 </body>
 </html>
