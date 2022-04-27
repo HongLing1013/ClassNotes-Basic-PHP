@@ -1,23 +1,37 @@
-<h1>畫星星</h1>
-
-<style>
-*{font-family: 'Courier New', Courier, monospace;}
-</style>
-
-<?php
-echo"<table>";
-for($i=1;$i<9;$i++){
-    echo"<tr>";
-    for($j=1;$j<9;$j++){
-        if($j<$i){
-            echo"&nbsp";
-        }else{
-            echo"<td>";
-            echo"*";
-            echo"</td>";
-        }
-    }
-    echo"</tr>";
-}
-echo"</table>";
-?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>勤永老師上課筆記與練習</title>
+</head>
+<body>
+    <h3>目錄</h3>
+    <ul>
+        <li><a href="1110401-1.php">練習</a></li>
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
+        <li><a href=""></a></li>
+    </ul>
+</body>
+</html>

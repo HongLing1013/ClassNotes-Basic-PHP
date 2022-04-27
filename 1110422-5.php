@@ -7,6 +7,13 @@
     <title>字串函式整合應用</title>
 </head>
 <body>
+
+    <div>
+        <a href="index.php">回目錄</a>
+    </div>
+    <!-- 回首頁的標籤 -->
+
+
     <h1>字串函式整合應用</h1>
     <article>
         <h3>尋找字串與HTML、CSS整合應用</h3>
