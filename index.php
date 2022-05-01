@@ -35,6 +35,7 @@
         <li><a href="./1110425-1.php">日期/時間練習</a></li>
         <li><a href="./1110425-2.php">strtotime()</a></li>
         <li><a href="./1110425-3.php">計算日期</a></li>
+        <li><a href="./1110425-3.php">計算生日倒數</a></li>
     </ul>
 </body>
 </html>
