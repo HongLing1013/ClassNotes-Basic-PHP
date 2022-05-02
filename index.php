@@ -43,6 +43,8 @@
         <li><a href="./1110425-7-2.php">簡易月曆假日變色</a></li>
         <li><a href="./1110429-1.php">用陣列來做月曆</a></li>
         <li><a href="./1110429-2.php">把陣列的參數帶到月曆裡面</a></li>
+        <li><a href="./1110429-3.php">flex月曆</a></li>
+        <li><a href="./1110429-4.php">flex月曆假日變色</a></li>
     </ul>
 </body>
 </html>
